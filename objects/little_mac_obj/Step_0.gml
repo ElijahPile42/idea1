@@ -8,6 +8,7 @@ image_xscale = 2
 image_yscale = 2
 image_blend = c_blue
 
+
 /* things to try 2-5-2024
 try to code gravity 
 try to make collisions optimal
