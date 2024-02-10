@@ -35,7 +35,9 @@
   },
   "resources": [
     {"id":{"name":"kyleissped","path":"objects/kyleissped/kyleissped.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"little_mac_obj","path":"objects/little_mac_obj/little_mac_obj.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
